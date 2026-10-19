@@ -1,5 +1,7 @@
 IT313 Lab 4: Student Roster Card Renderer
 
+For my Entire Code its all in the Class_Roster due to the handling of my folders
+
 Project Overview
 This project is a React Native app built with Expo that displays a class roster using custom components, props, array mapping, conditional rendering, and dynamic key handling.
 
